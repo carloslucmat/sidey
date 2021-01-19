@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: "post"
 title: Herramientas digitales para hacer etnografía
 categories: [cool-tools]
 ---
