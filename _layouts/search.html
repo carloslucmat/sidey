@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Search
+title: Buscar
 ---
 
 <!-- Html Elements for Search -->
 <div id="search-container">
-<input type="text" id="search-input" placeholder="search...">
+<input type="text" id="search-input" placeholder="buscar...">
 <ul id="results-container"></ul>
 </div>
 
@@ -19,7 +19,7 @@ SimpleJekyllSearch({
   resultsContainer: document.getElementById('results-container'),
   json: '/search.json',
   searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
-  noResultsText: 'No results found',
+  noResultsText: ' ¯\(°_o)/¯ ',
   limit: 10,
   fuzzy: false,
   exclude: ['Welcome']
