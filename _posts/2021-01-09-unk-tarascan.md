@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Carl Lumholtz en Michoacán
-categories: [antropología, etnografía, Michoacán, purépecha, Carl Lumholtz]
+tags: [antropología, etnografía, Michoacán, purépecha, Carl Lumholtz]
 ---
 
 ![Carl Lumholtz en la Sierra Madre en Chihuahua, 1892](/images/lumholtz-chihuahua.png)
