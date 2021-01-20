@@ -1,9 +1,9 @@
 links:
 - title: Carlos Lucas
-  url: /info
-- title: Escritos
   url: /
 - title: Buscar
   url: /buscar
+- title: Info
+  url: /info
 - title: Rss
   url: /atom.xml
