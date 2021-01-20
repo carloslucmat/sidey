@@ -27,7 +27,7 @@ permalink: /buscar
 
 <!-- Html Elements for Search -->
 <div id="search-container">
-<input type="text" id="search-input" placeholder="Search...">
+<input type="text" id="search-input" placeholder="Buscar...">
 <ol id="results-container"></ol>
 </div>
 
@@ -41,7 +41,7 @@ SimpleJekyllSearch({
   resultsContainer: document.getElementById('results-container'),
   json: '/search.json',
   searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
-  noResultsText: 'No results found',
+  noResultsText: 'Sin resultados,
   limit: 10,
   fuzzy: false,
   exclude: ['Welcome']
