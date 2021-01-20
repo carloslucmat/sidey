@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Buscar
+permalink: /buscar
 ---
 
 <style>
