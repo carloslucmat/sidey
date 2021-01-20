@@ -1,14 +1,13 @@
 ---
 layout: post
+title: Awesome List - Herramientas digitales académicas
 tags: [awesome, herramientas digitales, atom, pandoc, markdown, ciencias sociales digitales, humanidades digitales, antropología, CAQDAS, Obsidian, Trilium, Atom, escritura academica, academic writing, tips, acwri]
 permalink: awesome-herramientas-digitales-académicas
 ---
 
-# Awesome List: Herramientas digitales académicas [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+## Intento de una awesome list [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
-Una lista seleccionada con herramientas digitales para antropólogos y científicos sociales.
-
-Esta lista está inspirada en las listas [Awesome ](https://github.com/sindresorhus/awesome/blob/main/awesome.md) que me fueron de mucha ayuda. Esta es una síntesis de mis búsquedas por internet. Aprovecho para agradecer a las personas que ayudan a gente desconocida en internet. Casi todo lo que recomiendo aquí lo utilizo, lo probé personalmente (aunque sea un poco) o me lo recomendaron mucho. El software es en su mayoría FOSS o que por lo menos tiene una versión gratuita que vale la pena.
+Esta lista está inspirada en las listas [Awesome ](https://github.com/sindresorhus/awesome/blob/main/awesome.md) pero para antropólogos y científicos sociales. Casi todo lo que recomiendo aquí lo utilizo, lo probé personalmente (aunque sea un poco) o me lo recomendaron mucho. El software es en su mayoría FOSS o que por lo menos tiene una versión gratuita que vale la pena.
 
 ## Software para análisis cualitativo
 - [QualCoder](https://github.com/ccbogel/QualCoder) - Software de análisis y codificación escrito en Python con soporte para texto, imágenes, audio y video. Libre, abierto y gratuito.
