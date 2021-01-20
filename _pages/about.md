@@ -4,26 +4,6 @@ title: Info
 permalink: /info
 ---
 
-Sidey is a simple and minimalistic jekyll blogging theme.
+Este es un sitio personal con un fork de [sidey](https://github.com/ronv/sidey) con modificaciones[^pie99] en español, escrito localmente en Markdown y alojado en GitHub.
 
-### Features
-
-- Responsive design
-- Inline CSS
-- Anchor headings
-- Search
-- Tags & tag pages
-- Security headers (for Netlify hosting)
-- 404 page
-- Compressed CSS and HTML
-- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
-- Robots.txt
-- Atom & Json feeds
-- Sass
-- Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
-- Ultra fast (Only ~5kb of CSS)
-- Sidebar navigation
-
-### Screenshot
-
-![Screenshot](screenshot.png)
+[^pie99]: Probablemente haga algunos cambios mínimos al CSS y luego haber que plugins puedo agregar (sidenotes no estarían mal).
