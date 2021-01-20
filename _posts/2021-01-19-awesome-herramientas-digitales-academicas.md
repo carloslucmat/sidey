@@ -5,7 +5,7 @@ tags: [awesome, herramientas digitales, atom, pandoc, markdown, ciencias sociale
 permalink: awesome-herramientas-digitales-académicas
 ---
 
-Herramientas académicas digitales[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+## Herramientas académicas digitales[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 Una lista seleccionada con herramientas digitales para antropólogos y científicos sociales.
 
