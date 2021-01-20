@@ -6,19 +6,12 @@ tags: [música, playlist, remix, bootleg, soundcloud]
 
 MMMM, ALGÚN DÍA ESCRIBIRÉ SOBRE ESTO.
 
-Mientras tanto una playlist. Ya después lo divido por cumbia, dembow, pop taquicardio +150 BPMs, Donks.
-
-
-- [Rethinking the Digital Remix: Mash‐ups and the Metaphysics of Sound Recording](https://www.tandfonline.com/doi/abs/10.1080/03007760802053211)
-- [Audible Transgressions: Art and Aesthetics after the Mashup](https://d1wqtxts1xzle7.cloudfront.net/7496667/audible_transgression_preprint.pdf?1325980615=&response-content-disposition=inline%3B+filename%3DAudible_Transgressions_Art_and_Aesthetic.pdf&Expires=1611185153&Signature=BNd6qLoJq96yqjv0b7LEl9JAF4hAgXMPEYtMLz5dDm1as135uOq0E93es4Rn8tP8dQmYUFW39AP7K2B6RazDbuuyAC6Cx6hRFU8zh2fYObXuAuGME88UmjVNdejtpZNQ155fOq4iVGw5K8nfE0If9GFMDC~xyxluz3mMVjJ24gzqjNiFvKwR8H21~RA1lM0Jl2LPZfRd9GJCgjJi2ZcRvqImUhS-ase2~-kiJ5HWLFFzh2vUXCwavz9F51M98p-o678KVuDeUV07hvP3MGjZI2Ija~wRWKSJ02GW0VbrMrI9JneKc2d7MJDMpcmFihKxKpxZbbrbDKP3s4vvWeFdAA__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA)
-- [Mashups, Sampling, and Authorship: A Mashupsampliography](https://www.tandfonline.com/doi/abs/10.1080/10588160802570375)
-- ["Criar novas ideias a partir de músicas prontas": reflexões, experiências e aprendizagens na produção de mashup](https://www.researchgate.net/publication/333970632_Criar_novas_ideias_a_partir_de_musicas_prontas_reflexoes_experiencias_e_aprendizagens_na_producao_de_mashup)
-- [As Composições Remix na Rede: a escuta como máquina de sensação](http://www.compos.org.br/data/biblioteca_864.pdf)
+Mientras tanto una playlist. Ya después lo divido por cumbia, dembow, pop taquicardio +150 BPMs, Donks; mexas, latinos, brasileros, tanzanos, sudafricanos, nigerianos, etc, etc.
 
 ---
 
 Místico perreo de primavera
-<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1768573741/size=large/bgcol=ffffff/linkcol=f171a2/tracklist=false/artwork=small/track=2252984623/transparent=true/" seamless><a href="https://keiska.bandcamp.com/album/edits-for-home">Edits For Home by Keiska</a></iframe>
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1768573741/size=large/bgcol=ffffff/linkcol=f171a2/tracklist=false/artwork=small/track=2252984623/tranysparent=true/" seamless><a href="https://keiska.bandcamp.com/album/edits-for-home">Edits For Home by Keiska</a></iframe>
 
 Enya New Age
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/738121240&color=%232a312b&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ojosfinos" title="ojosfinos" target="_blank" style="color: #cccccc; text-decoration: none;">ojosfinos</a> · <a href="https://soundcloud.com/ojosfinos/5-enya-only-time-cumbita-remix" title="Enya - Only Time (ojosfinos cumbiiita remix)" target="_blank" style="color: #cccccc; text-decoration: none;">Enya - Only Time (ojosfinos cumbiiita remix)</a></div>
