@@ -1,11 +1,10 @@
 ---
 layout: post
-title: "Awesome List: Herramientas digitales académicas"
 tags: [awesome, herramientas digitales, atom, pandoc, markdown, ciencias sociales digitales, humanidades digitales, antropología, CAQDAS, Obsidian, Trilium, Atom, escritura academica, academic writing, tips, acwri]
 permalink: awesome-herramientas-digitales-académicas
 ---
 
-## Herramientas académicas digitales[![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+# Awesome List: Herramientas digitales académicas [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
 
 Una lista seleccionada con herramientas digitales para antropólogos y científicos sociales.
 
