@@ -1,16 +1,16 @@
 site: CLM
-url: #yoururl
+url: carloslucmat.github.io
 title: Carlos Lucas Mateo
 description: Página personal experimental
 twitter:
-  username: #yourusername
+  username: SanLucasMateo
   card: summary
   creator: #yourusername
 author:
-  twitter: #yourusername
-  name: #yourusername
+  twitter: SanLucasMateo
+  name: SanLucasMateo
   avatar:
-  email: #youremail
+  email: carloslucmat@politicas.unam.mx
   url: #yoururl
 permalink: pretty
 
