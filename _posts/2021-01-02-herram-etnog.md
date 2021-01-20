@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Herramientas digitales para hacer etnografía
-tags: [cool-tools]
+tags: [cool tools, humanidades digitales, bookdown]
+permalink: herram-digi
 ---
 
 Originalmente el texto se llama _Herramientas no etnográficas para hacer etnografía_ y va sobre consejos prácticos para hacer antropología con herramientas digitales. Lo he estado escribiendo en Markdown y después lo pase a un formato de Bookdown en R. Todavía no está completo, sólo lo estoy probando. Ya lo iré actualizando.
