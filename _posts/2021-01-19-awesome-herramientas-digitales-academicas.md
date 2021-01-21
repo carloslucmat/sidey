@@ -5,25 +5,26 @@ tags: [awesome, herramientas digitales, atom, pandoc, markdown, ciencias sociale
 permalink: /awesome-herramientas-digitales-académicas
 ---
 
-## Intento de una awesome list [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re)
+## Intento de una awesome list [![Awesome](https://awesome.re/badge-flat2.svg)](https://awesome.re) pero para antropólogos y científicos sociales
 
-Esta lista está inspirada en las listas [Awesome ](https://github.com/sindresorhus/awesome/blob/main/awesome.md) pero para antropólogos y científicos sociales. Casi todo lo que recomiendo aquí lo utilizo, lo probé personalmente (aunque sea un poco) o me lo recomendaron mucho. El software es en su mayoría FOSS o que por lo menos tiene una versión gratuita que vale la pena.
+Esta lista está inspirada en las listas [Awesome](https://github.com/sindresorhus/awesome/blob/main/awesome.md). Casi todo lo que recomiendo aquí lo utilizo, lo probé personalmente (aunque sea un poco) o me lo recomendaron mucho. El software es en su mayoría FOSS o que por lo menos tiene una versión gratuita que vale la pena.
 
 ## Software para análisis cualitativo
+
 - [QualCoder](https://github.com/ccbogel/QualCoder) - Software de análisis y codificación escrito en Python con soporte para texto, imágenes, audio y video. Libre, abierto y gratuito.
 - [QCoder](https://github.com/ropenscilabs/qcoder) - Paquete para la codificación de datos en R. Libre, abierto y gratuito.
 - [Taguette](https://www.taguette.org/) - Software para codificación de datos de texto. Abierto y gratuito con aplicación Web y de escritorio.
 
 ## Gestores de bibliotecas personales
 
-- [Zotero](https://www.zotero.org/) - Gestor de referencias libre, abierto y gratuito.
-    - [Better BibTex for Zotero](https://retorque.re/zotero-better-bibtex/) - Integración de BibLaTex para Zotero.
-    - [ZotFile for Zotero](http://zotfile.com/) - Gestión de archivos PDF para Zotero.
-    - [Plugins](https://www.zotero.org/support/plugins) desarrollados por la comunidad.
-    - [Zotero hacks](https://habr.com/en/post/443798/) - Pequeños trucos para usar Zotero.
-- [JabRef](https://www.jabref.org/) - Gestor de referencias bibliográficas de código abierto.
-- [Mendeley](https://www.mendeley.com/download-desktop/) - Gestor bibliográfico y red social académica de Elsevier.
-- [Calibre](https://calibre-ebook.com/) - Un administrador de libros electrónicos.
+  - [Zotero](https://www.zotero.org/) - Gestor de referencias libre, abierto y gratuito.
+      - [Better BibTex for Zotero](https://retorque.re/zotero-better-bibtex/) - Integración de BibLaTex para Zotero.
+      - [ZotFile for Zotero](http://zotfile.com/) - Gestión de archivos PDF para Zotero.
+      - [Plugins](https://www.zotero.org/support/plugins) desarrollados por la comunidad.
+      - [Zotero hacks](https://habr.com/en/post/443798/) - Pequeños trucos para usar Zotero.
+  - [JabRef](https://www.jabref.org/) - Gestor de referencias bibliográficas de código abierto.
+  - [Mendeley](https://www.mendeley.com/download-desktop/) - Gestor bibliográfico y red social académica de Elsevier.
+  - [Calibre](https://calibre-ebook.com/) - Un administrador de libros electrónicos.
 
 ## Programas para tomar notas
 
