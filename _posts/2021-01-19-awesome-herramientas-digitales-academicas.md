@@ -11,11 +11,15 @@ Esta lista está inspirada en las listas [Awesome](https://github.com/sindresorh
 
 ## Software para análisis cualitativo
 
+![CAQDAS FLOSS](/images/caqdas.png)
+
 - [QualCoder](https://github.com/ccbogel/QualCoder) - Software de análisis y codificación escrito en Python con soporte para texto, imágenes, audio y video. Libre, abierto y gratuito.
 - [QCoder](https://github.com/ropenscilabs/qcoder) - Paquete para la codificación de datos en R. Libre, abierto y gratuito.
 - [Taguette](https://www.taguette.org/) - Software para codificación de datos de texto. Abierto y gratuito con aplicación Web y de escritorio.
 
 ## Gestores de bibliotecas personales
+
+![zot-jab-men](/images/refer22.png)
 
   - [Zotero](https://www.zotero.org/) - Gestor de referencias libre, abierto y gratuito.
       - [Better BibTex for Zotero](https://retorque.re/zotero-better-bibtex/) - Integración de BibLaTex para Zotero.
