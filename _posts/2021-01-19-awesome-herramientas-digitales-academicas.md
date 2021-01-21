@@ -17,10 +17,10 @@ Esta lista está inspirada en las listas [Awesome ](https://github.com/sindresor
 ## Gestores de bibliotecas personales
 
 - [Zotero](https://www.zotero.org/) - Gestor de referencias libre, abierto y gratuito.
-  - [Better BibTex for Zotero](https://retorque.re/zotero-better-bibtex/) - Integración de BibLaTex para Zotero.
-  - [ZotFile for Zotero](http://zotfile.com/) - Gestión de archivos PDF para Zotero.
-  - [Plugins](https://www.zotero.org/support/plugins) desarrollados por la comunidad.
-  - [Zotero hacks](https://habr.com/en/post/443798/) - Pequeños trucos para usar Zotero.
+    - [Better BibTex for Zotero](https://retorque.re/zotero-better-bibtex/) - Integración de BibLaTex para Zotero.
+    - [ZotFile for Zotero](http://zotfile.com/) - Gestión de archivos PDF para Zotero.
+    - [Plugins](https://www.zotero.org/support/plugins) desarrollados por la comunidad.
+    - [Zotero hacks](https://habr.com/en/post/443798/) - Pequeños trucos para usar Zotero.
 - [JabRef](https://www.jabref.org/) - Gestor de referencias bibliográficas de código abierto.
 - [Mendeley](https://www.mendeley.com/download-desktop/) - Gestor bibliográfico y red social académica de Elsevier.
 - [Calibre](https://calibre-ebook.com/) - Un administrador de libros electrónicos.
@@ -29,19 +29,18 @@ Esta lista está inspirada en las listas [Awesome ](https://github.com/sindresor
 
 - [Joplin](https://joplinapp.org/) -  Software libre, de código abierto para tomar notas y tareas pendientes en Markdown para escritorio y celular.
 - [Notion](https://www.notion.so/) - Aplicación todo-en-uno para tomar notas, planear proyectos, crear tableros, calendarios, recordatorios y manejar información.
+- [Simplenote](https://simplenote.com/) - Aplicación de notas minimalista multiplataforma, con respaldo en la nube, sincronización automática, soporte Markdown y sostenido por el quipo de WordPress y Tumblr.
 - [Notable](https://notable.app/) - Aplicación de notas en Markdown basado en VS Code.
 - [WorkFlowy](https://workflowy.com/) - Una aplicación web para la toma de notas en outlines al estilo fractal.
 - [RemNote](https://www.remnote.io/) - Notas jerárquicas y aprendizaje con repaso espaciado.
-- [Boostnote](https://boostnote.io/) -
-- [Simplenote](https://simplenote.com/) -
-- [Ghostwriter](https://wereturtle.github.io/ghostwriter/) -
-- [iA Writer](https://ia.net/es/writer) -
+- [Boostnote](https://boostnote.io/) -Espacio de trabajo colaborativo Markdown con herramientas para programadores.
+- [Ghostwriter](https://wereturtle.github.io/ghostwriter/) - Editor Markdown limpio y sin distracciones para Linux y Windows.
 
 ## Editores de texto para escribir (y otras cosas)
 
 - [Atom](http://atom.io/) - Un gran editor de texto extensible para programar, escribir, seguir tus proyectos en GitHub y mucho más.
-  - [Atom para el flujo de trabajo académico](https://juancarloscastillo.github.io/jc-castillo/documents/tallerATOM/tallerATOM.html#1) - Presentación de Juan Carlos Castillo para iniciados en Atom.
-  - [Using Atom for academic writing](https://discuss.atom.io/t/using-atom-for-academic-writing/19222) - Paquetes de Atom para la escritura académica.
+    - [Atom para el flujo de trabajo académico](https://juancarloscastillo.github.io/jc-castillo/documents/tallerATOM/tallerATOM.html#1) - Presentación de Juan Carlos Castillo para iniciados en Atom.
+    - [Using Atom for academic writing](https://discuss.atom.io/t/using-atom-for-academic-writing/19222) - Paquetes de Atom para la escritura académica.
 - [WriteMonkey](https://writemonkey.com/) - Una aplicación _zenware_ para escribir sin distracciones.
 - [Doom Emacs](https://github.com/hlissner/doom-emacs) - Una configuración para domar al imponente Emacs.
 - [LibreOffice](http://www.libreoffice.org/) - Un reemplazo libre y gratuito de la suite Office.
@@ -57,8 +56,8 @@ Esta lista está inspirada en las listas [Awesome ](https://github.com/sindresor
 - [Foam](https://foambubble.github.io/foam/) - Una versión libre de Roam con Visual Studio Code.
 - [Obsidian](https://obsidian.md/) - Base de conocimiento personal sobre achivos Markdown con visualización de grafo, plugins, backlincks y algunas opciones de pago.
 - [TiddlyWiki](https://tiddlywiki.com/#TiddlyWiki) - Un cuaderno digital no-lineal para capturar y organizar información compleja.
-  - [TiddlyMap](http://tiddlymap.org/) - Un plugin para visualizar la información de tu wiki.
-  - [TiddlyResearch](https://kebifurai.github.io/TiddlyResearch/) - Un ambiente de notas basado en TiddlyWiki.
+    - [TiddlyMap](http://tiddlymap.org/) - Un plugin para visualizar la información de tu wiki.
+    - [TiddlyResearch](https://kebifurai.github.io/TiddlyResearch/) - Un ambiente de notas basado en TiddlyWiki.
 - [Nodebook](https://nodebook.io/) - Create beautiful graphs with all your papers, files, notes and links, and always have an easy overview of your own thoughts and ideas.
 - [MindForger](https://www.mindforger.com/#personal) is human mind inspired personal knowledge management tool.
 - [Awesome Knowledge Management](https://github.com/brettkromkamp/awesome-knowledge-management) - Una lista seleccionada de artículos, personas, aplicaciones, bibliotecas de software y proyectos relacionados con la gestión del conocimiento. ^be20dd
@@ -100,8 +99,8 @@ Esta lista está inspirada en las listas [Awesome ](https://github.com/sindresor
 ## Ilustración y visualización
 
 - [Inkscape](https://inkscape.org/) Programa de vectores gráficos para diseño y arte digital.
-- [Mermaid](https://mermaid-js.github.io/mermaid/#/)
-  - [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor/) - Define simple diagrams instead of drawing them.
+- [Mermaid](https://mermaid-js.github.io/mermaid/#/) - Sencilla herramienta de código para diagramar y graficar por medio de texto.
+    - [Mermaid Live Editor](https://mermaid-js.github.io/mermaid-live-editor/) - Define simple diagrams instead of drawing them.
 - [diagrams.net](https://www.diagrams.net/) - Open source, online, desktop and container deployable diagramming software.
 - [graphviz](https://graphviz.org/) - Visualization software for graphs and networks which uses a domain-specific DOT language.
 - [PlantUML](https://plantuml.com/) - Define UML diagrams instead of drawing them.
@@ -114,16 +113,16 @@ Esta lista está inspirada en las listas [Awesome ](https://github.com/sindresor
 
 - [The Plain Person’s Guide to Plain Text Social Science](https://plain-text.co/) - Pequeña guía de Kieran Healy sobre el flujo de trabajo académico en texto plano para ciencias sociales. Contenido sobre R Markdown, editores de texto y hasta una una introducción a Emacs.
 - [The Programming Historian](https://programminghistorian.org/en/lessons/) - Revista de historia y humanidades digitales con lecciones como:
-  - [Preserving Your Research Data](https://programminghistorian.org/en/lessons/preserving-your-research-data) - Para mantener consultables tus datos en el tiempo.
-  - [Fetching and Parsing Data from the Web with OpenRefine](https://programminghistorian.org/en/lessons/fetch-and-parse-data-with-openrefine) - Para explorar, limpiar y transformar datos de la Web.
-  - [Running a Collaborative Research Website and Blog with Jekyll and GitHub](https://programminghistorian.org/en/lessons/collaborative-blog-with-jekyll-github) - Para construir tu página colaborativa de investigación.
+    - [Preserving Your Research Data](https://programminghistorian.org/en/lessons/preserving-your-research-data) - Para mantener consultables tus datos en el tiempo.
+    - [Fetching and Parsing Data from the Web with OpenRefine](https://programminghistorian.org/en/lessons/fetch-and-parse-data-with-openrefine) - Para explorar, limpiar y transformar datos de la Web.
+    - [Running a Collaborative Research Website and Blog with Jekyll and GitHub](https://programminghistorian.org/en/lessons/collaborative-blog-with-jekyll-github) - Para construir tu página colaborativa de investigación.
 - [Investigación Social Abierta: Herramientas para la reproducibilidad, colaboración y comunicación académica_](https://juancarloscastillo.github.io/in-socabi/) Libro digital de Juan Carlos Castillo.
 - [Awesome Academic Writing](https://maehr.github.io/awesome-academic-writing/) "_Una lista seleccionada de cosas increibles relacionadas con la escritura académica_".
-  - [Ten simple rules for scientists: Improving your writing productivity](https://dx.plos.org/10.1371/journal.pcbi.1006379).
-  - [Writing for an academic journal: 10 tips](https://www.theguardian.com/higher-education-network/blog/2013/sep/06/academic-journal-writing-top-tips).
-  - [How to write a scientific abstract in six easy steps](https://www.easterbrook.ca/steve/2010/01/how-to-write-a-scientific-abstract-in-six-easy-steps/).
-  - [Harvard Writing Resources](https://writingcenter.fas.harvard.edu/pages/resources).
-- [Digital Humanities Literacy Guidebook](https://cmu-lib.github.io/dhlg/topics/) - Overview on the field of Digital History and Digital Humanities.
+    - [Ten simple rules for scientists: Improving your writing productivity](https://dx.plos.org/10.1371/journal.pcbi.1006379).
+    - [Writing for an academic journal: 10 tips](https://www.theguardian.com/higher-education-network/blog/2013/sep/06/academic-journal-writing-top-tips).
+    - [How to write a scientific abstract in six easy steps](https://www.easterbrook.ca/steve/2010/01/how-to-write-a-scientific-abstract-in-six-easy-steps/).
+    - [Harvard Writing Resources](https://writingcenter.fas.harvard.edu/pages/resources).
+  - [Digital Humanities Literacy Guidebook](https://cmu-lib.github.io/dhlg/topics/) - Overview on the field of Digital History and Digital Humanities.
 
 ## Videos
 
