@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Entrevistas a pensadores líderes de Cambridge"
+title: "Entrevistas a 'líderes pensadores' de Cambridge"
 tags: [videos, entrevistas, antropología]
 ---
 
@@ -8,14 +8,23 @@ La Universidad de Cambridge tiene una colección de entrevistas videograbadas ll
 
 Aquí hago una selección de algunos de mis antropólogxs favs y algunas curiosidades.
 
-## Raymond Firth
-<iframe width="480" height="360" src="https://sms.cam.ac.uk/media/1116525/embed" frameborder="0" scrolling="no" allowfullscreen></iframe>
+## Edmund Leach
+<iframe width="480" height="360" src="https://sms.cam.ac.uk/media/1124291/embed" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+## Marilyn Strathern
+<iframe width="480" height="360" src="https://sms.cam.ac.uk/media/1130673/embed" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+## Marshall Sahlins II
+<iframe width="480" height="360" src="https://sms.cam.ac.uk/media/1638858/embed" frameborder="0" scrolling="no" allowfullscreen></iframe>
+
+## Marshall Sahlins II
+<iframe width="480" height="360" src="https://sms.cam.ac.uk/media/1510986/embed" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 ## Meyer Fortes
 <iframe width="480" height="360" src="https://sms.cam.ac.uk/media/1116679/embed" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
-## Marilyn Strathern
-<iframe width="480" height="360" src="https://sms.cam.ac.uk/media/1130673/embed" frameborder="0" scrolling="no" allowfullscreen></iframe>
+## Raymond Firth
+<iframe width="480" height="360" src="https://sms.cam.ac.uk/media/1116525/embed" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 ## John Barnes
 <iframe width="480" height="360" src="https://sms.cam.ac.uk/media/1112295/embed" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -25,9 +34,6 @@ Aquí hago una selección de algunos de mis antropólogxs favs y algunas curiosi
 
 ## Eric Hobsbawm
 <iframe width="480" height="360" src="https://sms.cam.ac.uk/media/1121594/embed" frameborder="0" scrolling="no" allowfullscreen></iframe>
-
-## Edmund Leach
-<iframe width="480" height="360" src="https://sms.cam.ac.uk/media/1124291/embed" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 ## Clifford Geertz
 <iframe width="480" height="360" src="https://sms.cam.ac.uk/media/1092398/embed" frameborder="0" scrolling="no" allowfullscreen></iframe>
@@ -67,12 +73,6 @@ Aquí hago una selección de algunos de mis antropólogxs favs y algunas curiosi
 
 ## Jack Goody
 <iframe width="480" height="360" src="https://sms.cam.ac.uk/media/1117872/embed" frameborder="0" scrolling="no" allowfullscreen></iframe>
-
-## Marshall Sahlins II
-<iframe width="480" height="360" src="https://sms.cam.ac.uk/media/1638858/embed" frameborder="0" scrolling="no" allowfullscreen></iframe>
-
-## Marshall Sahlins II
-<iframe width="480" height="360" src="https://sms.cam.ac.uk/media/1510986/embed" frameborder="0" scrolling="no" allowfullscreen></iframe>
 
 ## Paul Rabinow
 <iframe width="480" height="360" src="https://sms.cam.ac.uk/media/1129089/embed" frameborder="0" scrolling="no" allowfullscreen></iframe>
