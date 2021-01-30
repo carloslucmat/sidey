@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "Traducción: Las ideologías de la competencia en un complejo industrial de Abidjan - Bruno Latour"
