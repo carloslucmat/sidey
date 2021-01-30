@@ -8,7 +8,7 @@ Bruno Latour: Les idéologies de la compétence en milieu industriel à Abidjan 
 
 Este es, que yo sepa, el primer trabajo etnográfico realizado por Latour después de doctorarse con una disertación sobre la repetición e ilegibilidad de Charles Péguy. Probablemente es uno de los pocos trabajos de campo antropológicos por parte de Latour fuera de Europa. Lo realiza en Abidjan, Costa de Marfil, donde estudia la **competencia e ideología en complejo industrial** de la región. Aunque en un primer momento puede parecer lejano a los trabajos de Latour (razón por la cual es interesante), el tratamiento es singular. Traduzco parte de sus conlusiones donde define _la competencia._
 
-El texto completo esta [aquí](http://www.bruno-latour.fr/sites/default/files/02-IDEOLOGIES-DE-COMPETENCE-FR.pdf).
+El texto completo está [aquí](http://www.bruno-latour.fr/sites/default/files/02-IDEOLOGIES-DE-COMPETENCE-FR.pdf).
 
 ![](/images/latour-abdijan-1974.png)
 
