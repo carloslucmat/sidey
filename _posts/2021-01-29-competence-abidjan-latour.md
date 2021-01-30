@@ -6,7 +6,7 @@ tags: [bruno latour, curiosidades, traducción, Abdijan, ideología, competencia
 
 Les idéologies de la compétence en milieu industriel à Abidjan (1974, p. 66) en la serie de estudios industriales No. 9.
 
-Probablemente uno de los pocos trabajos de campo antropológicos por parte de Latour fuera de Europa es el realizado en Abidjan, Costa de Marfil a un complejos industrial. Este es el primer trabajo etnográfico comandado a Latour, después de doctorarse con una diseratación sobre la repetición e ilegibilidad de Charles Péguy. La cuestión a estudiar: **competencia e ideología en una fábrica**. Aunque en un primer momento puede parecer lejano a los trabajos de Latour (razón por la cual tambiés es interesante), el tratamiento es singular. Traduzco parte de sus conlusiones donde define _la competencia._
+Probablemente uno de los pocos trabajos de campo antropológicos por parte de Latour fuera de Europa es el realizado en Abidjan, Costa de Marfil a un complejos industrial. Este es el primer trabajo etnográfico realizado por Latour, después de doctorarse con una disertación sobre la repetición e ilegibilidad de Charles Péguy. Así, se dedica a estudiar **competencia e ideología en una fábrica** de la región. Aunque en un primer momento puede parecer lejano a los trabajos de Latour (razón por la cual es interesante), el tratamiento es singular. Traduzco parte de sus conlusiones donde define _la competencia._
 
 ![](/images/latour-abdijan-1974.png)
 
